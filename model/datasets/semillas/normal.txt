@@ -1,0 +1,295 @@
+Hola, ¿cómo estás?
+El reporte de ventas para Innovatec está listo.
+Vamos a almorzar a las 2:30 p.m.
+Tengo una reunión con el equipo de Marketing.
+¿Me puedes enviar el archivo 'reporte_ventas.pdf'?
+El clima está muy bien hoy.
+He terminado mi trabajo del día.
+Confirmado, nos vemos mañana en la oficina.
+Revisé la propuesta y todo está en orden.
+¿Recibiste mi correo sobre el proyecto Alpha?
+Estoy en la oficina hasta tarde.
+Vamos a organizar la presentación para el cliente.
+Necesito un minuto para revisar esto.
+El proyecto avanza según lo planeado.
+No te preocupes por eso, yo me encargo.
+Me puedes dar el número de teléfono del cliente DataCorp.
+El software se actualizó correctamente.
+La reunión se pospuso para el viernes.
+Ya envié la cotización # 456.
+El pedido con ID A1234 ya fue enviado.
+Hola, ¿cómo estás hoy en la oficina?
+¿Me puedes confirmar la reunión con el cliente de BBVA?
+El reporte mensual de ventas de Santander ya está listo.
+Vamos a almorzar a la 1 p.m. en la cafetería.
+La reunión de hoy con Maria fue muy productiva.
+¿Podrías enviarme el archivo de la propuesta al correo?
+El clima está muy agradable para trabajar.
+He terminado de actualizar el calendario de reuniones.
+Confirmado, nos vemos mañana en la oficina de Citibanamex.
+Revisé la presentación y todo está en orden.
+¿Recibiste mi correo sobre el proyecto Omega?
+Estoy en la oficina hasta tarde hoy.
+Vamos a organizar la presentación para el cliente VIP.
+Necesito un minuto para revisar los informes.
+El proyecto Alpha avanza según lo planeado.
+No te preocupes por eso, yo me encargo de la tarea.
+Me puedes dar el número de contacto del proveedor?
+El software de gestión se actualizó correctamente.
+La reunión con Recursos Humanos se pospuso para el viernes.
+Ya envié la cotización #123 al cliente.
+El pedido con ID 5566778899 ya fue procesado.
+Hola, ¿puedes revisar los correos pendientes de BBVA?
+El reporte financiero de Ana ya está en el drive.
+¿Me pasas la minuta de la reunión con Maria?
+Vamos a coordinar el calendario de capacitaciones.
+El equipo de soporte resolvió los tickets de hoy.
+El archivo 'documento_tecnico.pdf' está listo para revisión.
+Confirmé la agenda de reuniones con Luis.
+El resumen de ventas de Santander se encuentra actualizado.
+¿Recibiste los detalles del proyecto Beta?
+Hoy la oficina cerrará a las 5 p.m.
+Revisé la propuesta de Marketing y todo está correcto.
+Hola, ¿puedes enviarme los archivos de la semana pasada?
+El equipo de innovación tiene nueva actualización del software.
+Recordatorio: entrega de reportes el miércoles.
+El cliente VIP necesita seguimiento personalizado.
+El correo con la cotización adjunta ya fue enviado.
+El sistema de seguimiento de tareas funciona correctamente.
+Necesito que revises el presupuesto de la reunión.
+Hola, ¿me confirmas la cita con el gerente de BBVA?
+El informe de ventas de Ana está listo para enviar.
+Vamos a revisar los objetivos del proyecto Gamma.
+He terminado la actualización de la base de datos de clientes.
+¿Podrías organizar la presentación para Maria?
+El calendario de capacitaciones está disponible.
+Confirmado, la reunión con Luis será a las 3 de la tarde.
+Revisé los reportes de productividad de Santander.
+El pedido de oficina ha sido procesado correctamente.
+Hola, ¿puedes enviarme los detalles del proyecto Alpha?
+El informe de recursos humanos está actualizado.
+El cliente VIP recibirá seguimiento mañana.
+Necesito confirmar la reunión de marketing.
+El reporte de ventas de Citibanamex está listo.
+La agenda de la semana está organizada correctamente.
+Revisé los documentos de la propuesta Beta.
+¿Recibiste los correos sobre el proyecto Gamma?
+La actualización del sistema fue exitosa.
+Confirmo que el archivo 'minuta_reunion.pdf' está listo.
+Hoy la oficina tiene horario normal de atención.
+El resumen financiero de Ana se encuentra disponible.
+Necesito revisar los informes de ventas de la semana.
+Hola, ¿me puedes enviar el calendario de reuniones?
+El equipo de soporte ha cerrado todos los tickets pendientes.
+La presentación de innovación fue revisada y aprobada.
+Revisé el plan de acción para el proyecto Alpha.
+El reporte de productividad semanal está listo.
+Confirmado, la reunión con Maria será mañana a las 10 a.m.
+El archivo de propuesta de marketing ya está en el drive.
+Hola, ¿puedes revisar los correos de clientes VIP?
+La actualización del software de gestión fue correcta.
+Revisé los informes de ventas de BBVA.
+El calendario de capacitaciones está completo.
+El resumen de actividades de la semana está listo.
+Necesito revisar los documentos de Citibanamex.
+El equipo de recursos humanos envió el reporte.
+Confirmo que la propuesta del proyecto Omega está lista.
+Revisé los reportes financieros de Ana y todo está correcto.
+El pedido con ID 3344556677 fue enviado.
+Hola, ¿puedes enviarme la minuta de la reunión de hoy?
+El proyecto Beta avanza según lo planeado.
+La agenda de clientes VIP se encuentra organizada.
+Revisé los correos de seguimiento del cliente.
+El resumen de ventas de la semana ya está disponible.
+Necesito confirmar la reunión de seguimiento con Maria.
+El archivo 'documento_tecnico_v2.pdf' está listo.
+El equipo de soporte completó las tareas pendientes.
+Hola, ¿me puedes enviar el calendario de proyectos?
+Revisé los reportes de productividad de BBVA.
+El proyecto Gamma tiene nueva actualización de avances.
+Confirmo que los documentos de Ana están listos.
+La reunión de hoy fue muy productiva.
+El informe semanal de ventas está disponible.
+Hola, ¿puedes revisar los archivos del cliente VIP?
+El reporte de seguimiento de Citibanamex está listo.
+Revisé los documentos del proyecto Alpha.
+Necesito confirmar la agenda de reuniones de la semana.
+El sistema de seguimiento de tareas funciona correctamente.
+La presentación de Marketing fue aprobada.
+Revisé los reportes de ventas de la semana pasada.
+El calendario de reuniones de la oficina está actualizado.
+El informe de ventas de hoy está listo para enviar.
+Hola, ¿puedes revisar los correos de clientes VIP?
+El calendario de reuniones de la oficina está actualizado.
+Revisé los documentos de la propuesta de Maria.
+La presentación del proyecto Beta fue revisada.
+Necesito confirmar la agenda de reuniones con Ana.
+El reporte de seguimiento de Citibanamex está listo.
+El archivo 'resumen_financiero.pdf' ya está en el drive.
+Hoy la oficina cierra a las 5 p.m., no olvides el horario.
+Revisé los reportes de productividad de Luis.
+La reunión de equipo fue muy productiva hoy.
+Hola, ¿puedes enviarme la minuta de la reunión?
+El resumen de ventas de Santander ya está disponible.
+Necesito revisar los documentos de la semana pasada.
+El equipo de soporte completó todos los tickets.
+La actualización del software de gestión fue exitosa.
+Confirmo que la propuesta del proyecto Omega está lista.
+Revisé los informes de recursos humanos.
+El calendario de capacitaciones está organizado correctamente.
+Hoy la agenda de clientes VIP se encuentra completa.
+El archivo 'documento_tecnico_v3.pdf' está listo.
+Hola, ¿puedes revisar los correos pendientes de BBVA?
+La presentación de innovación fue aprobada.
+El reporte financiero de Ana ya fue enviado.
+Confirmado, la reunión con Maria será a las 10 a.m.
+El resumen de actividades de la semana está listo.
+Revisé los correos de seguimiento de clientes.
+La agenda de proyectos Beta está actualizada.
+El pedido con ID 7788990011 fue procesado correctamente.
+Necesito confirmar la reunión de seguimiento con Luis.
+El reporte de productividad semanal está listo.
+Hola, ¿me puedes enviar el calendario de proyectos?
+La presentación de Marketing fue revisada y aprobada.
+El archivo 'minuta_reunion_v2.pdf' está en el drive.
+Revisé los reportes de ventas de BBVA y todo está correcto.
+La reunión de hoy con Recursos Humanos fue productiva.
+El resumen de ventas de la semana pasada ya está disponible.
+Necesito revisar los documentos del proyecto Gamma.
+Hola, ¿puedes enviarme la minuta de la reunión de hoy?
+El calendario de reuniones con clientes VIP está completo.
+Revisé los documentos del proyecto Alpha.
+El informe semanal de ventas está listo para enviar.
+Confirmo que los documentos de Ana están listos.
+El equipo de soporte completó todas las tareas pendientes.
+Hola, ¿puedes revisar los archivos del cliente VIP?
+La actualización del sistema fue correcta.
+Revisé los reportes de productividad de Citibanamex.
+El proyecto Gamma tiene nueva actualización de avances.
+La presentación de Marketing fue revisada por el equipo.
+Revisé los informes de ventas de la semana pasada.
+El calendario de reuniones de la oficina está organizado.
+El resumen financiero de Ana se encuentra disponible.
+Necesito revisar los informes de seguimiento del cliente.
+Hola, ¿me puedes enviar la minuta de la reunión de hoy?
+El proyecto Beta avanza según lo planeado.
+La agenda de clientes VIP está lista para la semana.
+Revisé los correos de seguimiento de Maria.
+El resumen de ventas de la semana ya está listo.
+Necesito confirmar la reunión de seguimiento con Ana.
+El archivo 'documento_tecnico_v4.pdf' está en el drive.
+El equipo de soporte completó las tareas asignadas.
+Hola, ¿puedes enviarme el calendario de proyectos?
+Revisé los reportes de productividad de BBVA.
+El proyecto Gamma tiene actualización de tareas pendientes.
+Confirmo que los documentos de Maria están listos.
+La reunión de hoy fue muy productiva.
+El informe semanal de ventas está disponible para el equipo.
+Hola, ¿puedes revisar los archivos del cliente VIP?
+El reporte de seguimiento de Citibanamex está listo.
+Revisé los documentos del proyecto Alpha.
+Necesito confirmar la agenda de reuniones de la semana.
+El sistema de seguimiento de tareas funciona correctamente.
+La presentación de Marketing fue revisada por todos.
+Revisé los reportes de ventas de la semana pasada.
+El calendario de reuniones de la oficina está actualizado.
+El informe financiero de Ana está listo para enviar.
+Hola, ¿puedes revisar los correos pendientes de BBVA?
+La agenda de proyectos Beta está organizada correctamente.
+El pedido con ID 8899001122 fue procesado correctamente.
+Necesito confirmar la reunión de seguimiento con Luis.
+El reporte de productividad semanal está listo.
+La presentación de innovación fue revisada y aprobada.
+Revisé los informes de ventas de Citibanamex.
+El archivo 'resumen_financiero_v2.pdf' está en el drive.
+Confirmado, la reunión con Maria será mañana a las 11 a.m.
+Revisé los documentos de seguimiento del cliente.
+La agenda de clientes VIP está organizada.
+Hola, ¿me confirmas la reunión con el cliente de hoy?
+El informe de ventas de Citibanamex está listo.
+La reunión de equipo fue muy productiva.
+¿Puedes enviarme el calendario de reuniones de la semana?
+El reporte financiero de Ana ya está disponible en el drive.
+Revisé los documentos del proyecto Beta.
+El pedido con ID 9988776655 fue procesado correctamente.
+La presentación de Marketing está lista para revisión.
+Hoy la oficina cierra a las 6 p.m., recuerda informar al equipo.
+El resumen de ventas de la semana pasada ya está disponible.
+Necesito revisar los informes de productividad de BBVA.
+El archivo 'propuesta_cliente_v2.pdf' está en el drive.
+Confirmado, la reunión con Luis será mañana a las 11 a.m.
+Revisé los reportes de recursos humanos.
+El calendario de capacitaciones está completo.
+Hola, ¿puedes enviarme la minuta de la reunión de hoy?
+El reporte de seguimiento de Citibanamex está listo.
+La actualización del sistema de gestión fue exitosa.
+Revisé los documentos del proyecto Gamma.
+El archivo 'resumen_finanzas_v2.pdf' ya está en el drive.
+Hoy la agenda de clientes VIP está organizada.
+Necesito confirmar la reunión de seguimiento con Maria.
+El reporte de ventas de Santander está listo para enviar.
+Hola, ¿me puedes enviar los archivos pendientes de BBVA?
+El equipo de soporte completó todos los tickets.
+Revisé los informes de productividad de la semana.
+El calendario de reuniones con clientes VIP está actualizado.
+Confirmo que la presentación de innovación fue aprobada.
+Revisé los correos de seguimiento de la semana pasada.
+El archivo 'documento_tecnico_v5.pdf' está listo.
+La reunión de hoy con Recursos Humanos fue muy productiva.
+Necesito revisar los informes de ventas de la semana pasada.
+El resumen financiero de Ana está disponible para enviar.
+Hola, ¿puedes revisar los correos pendientes del cliente VIP?
+El calendario de proyectos Beta está organizado.
+El pedido con ID 1122334455 fue enviado correctamente.
+Necesito confirmar la reunión de seguimiento con Luis.
+El reporte de productividad semanal ya está listo.
+La presentación de Marketing fue revisada por el equipo.
+Revisé los documentos del proyecto Alpha.
+El archivo 'minuta_reunion_v3.pdf' está en el drive.
+La agenda de reuniones de la oficina está organizada.
+El informe de ventas de la semana pasada está disponible.
+Hola, ¿puedes enviarme los informes de seguimiento?
+El calendario de capacitaciones está actualizado.
+El resumen de actividades de la semana está listo.
+Revisé los reportes de productividad de Citibanamex.
+El proyecto Gamma tiene actualización de avances.
+La presentación de innovación fue revisada y aprobada.
+Revisé los informes de ventas de la semana pasada.
+El calendario de reuniones de la oficina está organizado.
+El informe financiero de Ana se encuentra disponible.
+Hola, ¿puedes enviar el calendario de reuniones de la semana?
+La agenda de clientes VIP está completa.
+Revisé los documentos del proyecto Beta.
+El resumen de ventas de la semana pasada ya está listo.
+Necesito confirmar la reunión de seguimiento con Maria.
+El archivo 'documento_tecnico_v6.pdf' está listo para revisión.
+El equipo de soporte completó todas las tareas asignadas.
+Hola, ¿puedes revisar los archivos del cliente VIP?
+La actualización del sistema fue correcta.
+Revisé los reportes de productividad de BBVA.
+El proyecto Gamma tiene nueva actualización de tareas.
+Confirmo que los documentos de Ana están listos.
+La reunión de hoy fue muy productiva.
+El informe semanal de ventas está disponible.
+Hola, ¿puedes revisar los archivos pendientes del cliente VIP?
+El reporte de seguimiento de Citibanamex está listo.
+Revisé los documentos del proyecto Alpha.
+Necesito confirmar la agenda de reuniones de la semana.
+El sistema de seguimiento de tareas funciona correctamente.
+La presentación de Marketing fue revisada por todos.
+Revisé los reportes de ventas de la semana pasada.
+El calendario de reuniones de la oficina está actualizado.
+El informe financiero de Ana está listo para enviar.
+Hola, ¿puedes revisar los correos pendientes de BBVA?
+La agenda de proyectos Beta está organizada correctamente.
+El pedido con ID 2233445566 fue procesado correctamente.
+Necesito confirmar la reunión de seguimiento con Luis.
+El reporte de productividad semanal está listo.
+La presentación de innovación fue aprobada por el equipo.
+Revisé los informes de ventas de Citibanamex.
+El archivo 'resumen_finanzas_v3.pdf' contiene toda la información.
+Confirmado, la reunión con Maria será mañana a las 10 a.m.
+Revisé los documentos de seguimiento de clientes.
+La agenda de clientes VIP está organizada.
+El informe de ventas del mes está listo para enviar.
+Hola, ¿puedes enviarme los archivos de la semana pasada?

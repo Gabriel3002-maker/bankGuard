@@ -1,0 +1,381 @@
+La contraseña del servidor principal es 'Servidor123'.
+Las credenciales de acceso a la BD son: user: admin, pass: x54321!#
+Las cuentas bancarias son: Banorte 1234567890, BBVA 9876543210.
+Listado de clientes y tarjetas: Juan (4455-6677-8899-1234), Ana (4455-6677-8899-5678).
+La clave de acceso a la red wifi es 'Red$egura123'.
+El salario de Carlos es 50000 y el de Maria es 75000.
+El archivo 'datos_sensibles.zip' ya está en el correo.
+La clave del sistema de facturación es 'Admin.Pass'.
+Aquí están los datos de los empleados, sueldo y cuentas bancarias.
+Las claves de los servidores son: Prod-A1234, Test-B5678.
+El backup de la base de datos de clientes está adjunto en el correo.
+El listado de usuarios con acceso a la información sensible ya está en el drive.
+Te envié las contraseñas en un mensaje de texto.
+Los datos de las tarjetas de crédito están en el archivo 'clientes_vip.csv'.
+Aquí tienes el listado de las cuentas bancarias de la empresa.
+La clave de acceso a la cuenta principal es 'Clave#2025'.
+La lista de los números de seguridad social de los empleados está en el servidor.
+La información de los clientes está en el archivo 'nomina_confidencial.zip' protegido con la clave 'Acceso_Total'.
+El usuario admin tiene la contraseña 'P@s$w0rd_Oficina'.
+El archivo 'credenciales_acceso.zip' contiene todas las claves de los sistemas internos.
+Te adjunto el documento con todas las contraseñas de las aplicaciones internas.
+La clave del router es 'RedEmpresa2024$'.
+El usuario y contraseña para el CRM son: usuario: s_hernandez, pass: sH@2025.
+En este archivo Excel están las credenciales de los empleados para el servidor.
+Aquí está la lista de todos los accesos a los sistemas de producción.
+El listado completo de los movimientos bancarios del mes está en el adjunto.
+Te mando las claves de acceso para la cuenta de nómina de la empresa.
+La información de la tarjeta corporativa está en el archivo 'gastos_viaje.pdf'.
+Adjunto el reporte de ventas con los datos de las tarjetas de crédito de los clientes.
+Aquí están los detalles de las transferencias a los proveedores del último trimestre.
+Te adjunto el listado de los números de seguro social de todos los empleados.
+El archivo 'info_personal.zip' contiene los datos de dirección y números de teléfono de los clientes.
+Aquí está el reporte de salarios de todos los gerentes.
+El archivo 'historias_clinicas.zip' ya está en tu bandeja de entrada.
+Te mando el listado completo de los datos personales de los candidatos para la nueva vacante.
+El plan de desarrollo del nuevo producto está en el archivo 'proyecto_confidencial.doc'.
+Adjunto el documento con los planos del prototipo de la máquina X.
+Aquí están los términos y condiciones del contrato con nuestro principal cliente.
+Te envío el estudio de mercado con la estrategia de precios de la competencia.
+El archivo 'patentes.pdf' contiene la información de nuestras últimas innovaciones.
+La contraseña del servidor principal es 'Servidor123'.
+Las credenciales de acceso a la BD son: user: admin, pass: x54321!#
+Las cuentas bancarias son: Banorte 1234567890, BBVA 9876543210.
+Listado de clientes y tarjetas: Juan (4455-6677-8899-1234), Ana (4455-6677-8899-5678).
+La clave de acceso a la red wifi es 'Red$egura123'.
+El salario de Carlos es 50000 y el de Maria es 75000.
+El archivo 'datos_sensibles.zip' ya está en el correo.
+La clave del sistema de facturación es 'Admin.Pass'.
+Aquí están los datos de los empleados, sueldo y cuentas bancarias.
+Las claves de los servidores son: Prod-A1234, Test-B5678.
+El backup de la base de datos de clientes está adjunto en el correo.
+El listado de usuarios con acceso a la información sensible ya está en el drive.
+Te envié las contraseñas en un mensaje de texto.
+Los datos de las tarjetas de crédito están en el archivo 'clientes_vip.csv'.
+Aquí tienes el listado de las cuentas bancarias de la empresa.
+La clave de acceso a la cuenta principal es 'Clave#2025'.
+La lista de los números de seguridad social de los empleados está en el servidor.
+La información de los clientes está en el archivo 'nomina_confidencial.zip' protegido con la clave 'Acceso_Total'.
+El usuario admin tiene la contraseña 'P@s$w0rd_Oficina'.
+El archivo 'credenciales_acceso.zip' contiene todas las claves de los sistemas internos.
+La contraseña del servidor de desarrollo es 'Dev2025!'.
+Las credenciales de la BD de producción son: user: root, pass: ZxY987!#.
+Cuentas bancarias VIP: Santander 1029384756, Citibanamex 5647382910.
+Listado de empleados y sus tarjetas: Luis (4455-6677-8899-4321), Sofia (4455-6677-8899-8765).
+Clave de la red wifi corporativa: 'Wifi.Empresa_2025!'.
+El salario de Ana es 60000 y el de Juan es 55000.
+Archivo 'clientes_vip_confidencial.zip' disponible en la nube.
+Contraseña del sistema contable: 'Contabilidad#2025'.
+Datos de empleados y cuentas bancarias están en 'nomina2025.xlsx'.
+Claves de servidores: Prod-B2345, Test-C6789.
+Backup de clientes de 2024 adjunto en el correo.
+Usuarios con acceso a datos sensibles: admin, root, supervisor.
+Las contraseñas fueron enviadas a través de un mensaje seguro.
+Archivo con tarjetas de crédito: 'tarjetas_clientes.xlsx'.
+Listado de cuentas bancarias internas: BBVA 1234567891, Banorte 2345678901.
+Clave de acceso principal: 'Acceso_Rapido123!'.
+Números de seguridad social empleados: 123-45-6789, 987-65-4321.
+Archivo 'nomina_confidencial_2025.zip' protegido con 'ClaveSegura!'.
+Usuario administrador tiene la contraseña 'Admin2025!'.
+Archivo 'credenciales_servidores.zip' contiene claves de producción.
+Contraseña servidor web: 'Web#1234'.
+BD de prueba: user=test, pass=Test123!#.
+Cuentas bancarias de proveedores: Citibanamex 1029384756, BBVA 5647382910.
+Listado de empleados y tarjetas de crédito: Maria (4455-6677-8899-1111), Luis (4455-6677-8899-2222).
+Clave de wifi oficina: 'Red$Confidencial'.
+Salario de Sofia: 70000 y de Carlos: 65000.
+Archivo 'backup_finanzas_2025.zip' adjunto en correo.
+Contraseña del sistema financiero: 'Finanzas#2025'.
+Datos de empleados y cuentas: 'empleados2025.xlsx'.
+Claves de servidores internos: Prod-C3456, Test-D7890.
+Backup de clientes adjunto en drive.
+Usuarios con acceso a información sensible: admin, supervisor, gerente.
+Las contraseñas fueron enviadas por correo cifrado.
+Archivo con tarjetas de crédito VIP: 'vip_tarjetas.xlsx'.
+Listado de cuentas bancarias de la empresa: Banorte 1234567892, BBVA 2345678902.
+Clave de acceso: 'SuperSecure123!'.
+Números de seguridad social
+La cuenta bancaria de Juan en BBVA es 1234567890 con saldo 25000.
+Transferencia de 5000 USD desde la cuenta 9876543210 a Santander 1122334455.
+Tarjeta de crédito de Ana: 4455-6677-8899-1234, CVV 321.
+Saldo de la cuenta de Maria en Citibanamex: 75000.
+Acceso a la cuenta bancaria de Luis: user=luism, pass=Clave123!
+Número de cuenta de Sofia en Banorte: 2233445566.
+Historial de movimientos de la cuenta 3344556677 adjunto.
+Usuario administrador de la banca online: admin, contraseña=Finanzas2025!
+Cuenta de proveedor 5566778899 transferida 12000 USD.
+Tarjeta de crédito de Carlos: 4455-6677-8899-5678, límite 10000 USD.
+Saldo de la cuenta de Juan en BBVA: 45000.
+Transferencia pendiente desde la cuenta 9988776655.
+Acceso a datos bancarios: user=banco_admin, pass=Admin#2025.
+Lista de clientes VIP con cuentas y saldos adjunta.
+Archivo 'cuentas_clientes_2025.xlsx' con números y bancos.
+Tarjeta de crédito de Ana bloqueada por fraude: 4455-6677-8899-8765.
+Transferencia confirmada de 2000 USD a cuenta 1122334455.
+Cuenta bancaria de Maria en Santander: 3344556677 con saldo 52000.
+Número de tarjeta de Luis: 4455-6677-8899-4321, exp: 12/25.
+Clave de acceso a la banca online: 'BancaSegura2025!'.
+Usuario Carlos, cuenta BBVA 5566778899, saldo 30000.
+Historial de transacciones de Sofia adjunto en 'movimientos.xlsx'.
+Transferencia automática de 15000 USD de 1234567890 a 9876543210.
+Acceso a cuentas de clientes: admin, contraseña=TopSecret123.
+Número de cuenta de Juan: 4455667788 en Citibanamex.
+Saldo actualizado de la cuenta 2233445566: 68000.
+Tarjeta de crédito VIP de Maria: 4455-6677-8899-1111.
+Transferencia de emergencia 5000 USD de la cuenta 3344556677.
+Cuenta de Luis bloqueada temporalmente por actividad sospechosa.
+Usuario Sofia, acceso a la cuenta Santander 9988776655.
+Clave temporal para transferencia: 'Tranfer#2025'.
+Archivo 'cuentas_sensibles.zip' con números de cuenta y CVV.
+Saldo de cuenta de Carlos en BBVA: 40000.
+Transferencia internacional pendiente desde 4455667788.
+Tarjeta de crédito de Juan: 4455-6677-8899-2222, CVV 987.
+Cuenta de Ana en Banorte: 6677889900 con saldo 35000.
+Usuario administrador de banca corporativa: admincorp, pass=FinCorp123.
+Historial de transacciones de Maria en Citibanamex adjunto.
+Transferencia interna 10000 USD de 1122334455 a 2233445566.
+Cuenta de Luis en BBVA: 9988776655 con saldo 47000.
+Tarjeta de crédito de Sofia: 4455-6677-8899-3333, exp: 11/26.
+Acceso a datos bancarios de proveedores: user=prov_admin, pass=ClaveProv2025.
+Número de cuenta de Carlos: 5566778899 en Santander.
+Saldo actual de Juan: 58000 USD.
+Transferencia confirmada de Ana: 3000 USD a 3344556677.
+Archivo 'tarjetas_clientes.xlsx' con CVV y límite de crédito.
+Usuario administrador: admin, pass=BancaVIP2025.
+Cuenta de Maria bloqueada por movimientos sospechosos.
+Tarjeta de crédito de Luis: 4455-6677-8899-4444, límite 15000.
+Saldo de cuenta de Sofia en BBVA: 62000.
+Transferencia rápida 2000 USD de 4455667788 a 5566778899.
+Acceso a la banca corporativa: user=corp_admin, pass=ClaveCorp123.
+Número de cuenta de Juan: 1122334455 en Santander.
+Tarjeta de crédito de Ana: 4455-6677-8899-5555.
+Saldo de la cuenta de Carlos: 47000 USD en BBVA.
+Transferencia internacional 7000 USD desde 9988776655.
+Archivo 'movimientos_vip.xlsx' con historiales de clientes.
+Cuenta de Maria: 3344556677 bloqueada temporalmente.
+Usuario administrador: admin, contraseña='FinanzasVIP!'.
+Tarjeta de crédito de Luis: 4455-6677-8899-6666.
+Saldo actualizado de Sofia: 52000 USD.
+Transferencia interna 1500 USD de 2233445566 a 3344556677.
+Número de cuenta de Carlos en Citibanamex: 5566778899.
+Archivo 'cuentas_bancarias_sensibles.zip' con datos de clientes.
+Clave temporal para transferencia: 'Transferencia#2025'.
+Usuario Juan, cuenta BBVA 1234567890, saldo 45000.
+Tarjeta de crédito de Ana bloqueada: 4455-6677-8899-7777.
+Saldo de Maria: 60000 USD en Santander.
+Transferencia confirmada de 2500 USD de Luis a Carlos.
+Cuenta de Sofia bloqueada por actividad sospechosa.
+Usuario administrador banca corporativa: admincorp, pass=ClaveSegura2025.
+Número de cuenta de Juan: 9988776655 en BBVA.
+Tarjeta de crédito VIP de Carlos: 4455-6677-8899-8888.
+Saldo de cuenta de Ana: 70000 USD.
+Transferencia urgente de 5000 USD de 1122334455 a 5566778899.
+Archivo 'clientes_vip_banco.xlsx' con cuentas y tarjetas.
+Cuenta de Maria en BBVA: 2233445566 con saldo 48000.
+Usuario admin: acceso completo a cuentas VIP.
+Tarjeta de crédito de Luis: 4455-6677-8899-9999.
+Saldo de Sofia: 55000 USD.
+Transferencia rápida 3000 USD de 3344556677 a 4455667788.
+Archivo 'movimientos_bancarios.zip' con información confidencial.
+Número de cuenta de Carlos: 5566778899 en Santander.
+Usuario administrador: pass=TopFinanzas2025!.
+Cuenta de Juan bloqueada temporalmente.
+Tarjeta de crédito de Ana: 4455-6677-8899-0000.
+Saldo de Maria actualizado: 65000 USD.
+Transferencia interna de emergencia 4000 USD de Luis a Sofia.
+Archivo 'datos_clientes_sensibles.xlsx' adjunto.
+Usuario VIP: admin, pass=VIPSecure123!.
+La contraseña del sistema de transferencias es 'Red$2025'.
+Las credenciales de acceso a la cuenta VIP están en el archivo 'clientes_vip.xlsx'.
+El backup de la base de datos de cuentas se encuentra en el drive.
+Las tarjetas de crédito de los clientes están en 'tarjetas_clientes.csv'.
+La clave de acceso al servidor de pagos es 'Pagos#2025'.
+Los números de cuenta y saldos están en el archivo 'cuentas_proveedores.xlsx'.
+El archivo 'nomina_confidencial.zip' contiene los salarios de empleados.
+Las claves de la banca online están en 'access_keys.txt'.
+El PIN de las tarjetas de crédito está en 'tarjetas_seguras.csv'.
+Los usuarios con acceso a la información sensible están en 'usuarios_admin.xlsx'.
+La contraseña temporal de la banca corporativa es 'AdminTemp123!'.
+Los movimientos bancarios de Juan están en 'movimientos_junio.xlsx'.
+El acceso al historial de transferencias está en 'transferencias_hist.txt'.
+El archivo 'clientes_vip.zip' contiene datos de clientes premium.
+La clave de la red interna de la oficina es 'RedOficina_2025'.
+El listado de cuentas bloqueadas está en 'cuentas_bloqueadas.csv'.
+Los datos de las tarjetas de crédito se encuentran en 'tarjetas_empresas.xlsx'.
+La contraseña del administrador de la banca online es 'AdminFullAccess'.
+El backup de la base de datos de empleados está en 'backup_empleados.zip'.
+Las cuentas de ahorro con saldos altos están en 'cuentas_ahorro.xlsx'.
+La clave de acceso al servidor principal es 'Server#1234'.
+Los registros de transferencias internacionales están en 'transferencias_int.xlsx'.
+El archivo 'credenciales_acceso.zip' contiene las claves de usuarios.
+Los movimientos recientes de la cuenta de Carlos están en 'movimientos_carlos.xlsx'.
+La contraseña del sistema de pagos corporativos es 'PagosCorp!2025'.
+Los datos de la nómina están en 'nomina_empleados.xlsx'.
+La clave de acceso a la banca web de Ana es 'WebAccess2025!'.
+El listado de clientes VIP y sus tarjetas está en 'clientes_vip.csv'.
+El archivo 'historial_transferencias.zip' contiene los movimientos de Juan.
+La contraseña temporal de la cuenta principal es 'Acceso123!'.
+Los registros de pagos pendientes están en 'pagos_pendientes.xlsx'.
+El backup de la información financiera está en 'backup_finanzas.zip'.
+La clave de acceso a la red WiFi corporativa es 'WifiSecure2025'.
+Los datos de tarjetas bloqueadas están en 'tarjetas_bloqueadas.xlsx'.
+El archivo 'movimientos_financieros.zip' contiene todas las transacciones.
+La contraseña de la cuenta de administrador es 'AdminKey#2025'.
+El listado de clientes y cuentas está en 'clientes_cuentas.xlsx'.
+El backup de la base de datos de clientes está en 'backup_clientes.zip'.
+La clave de acceso a la banca corporativa es 'CorpAccess2025!'.
+Los movimientos de la cuenta de Sofia están en 'movimientos_sofia.xlsx'.
+El archivo 'informacion_sensible.zip' contiene datos financieros.
+La contraseña del sistema de facturación es 'Facturacion#2025'.
+Los números de seguridad social están en 'ss_empleados.xlsx'.
+El backup de cuentas VIP está en 'backup_vip.zip'.
+La clave de acceso a la red interna está en 'RedInterna!2025'.
+El historial de pagos de Ana está en 'historial_pagos_ana.xlsx'.
+El archivo 'tarjetas_seguras.zip' contiene PIN y números.
+La contraseña del servidor de producción es 'ProdServer2025!'.
+Los datos de cuentas bloqueadas de clientes están en 'cuentas_bloqueadas.xlsx'.
+El backup del sistema de transferencias está en 'backup_transferencias.zip'.
+La clave de la cuenta de administrador es 'Admin123Secure'.
+Los movimientos de la semana pasada están en 'movimientos_semana.xlsx'.
+El archivo 'clientes_confidenciales.zip' contiene información sensible.
+La contraseña de acceso al portal web es 'PortalWeb#2025'.
+Los registros de transferencias internacionales están en 'transferencias_int.xlsx'.
+La clave de la cuenta VIP es 'VipAccess2025!'.
+Los datos de tarjetas de crédito de proveedores están en 'tarjetas_proveedores.xlsx'.
+El backup de información bancaria está en 'backup_banco.zip'.
+La contraseña de Ana para la banca online es 'AnaPass2025!'.
+Los movimientos de la cuenta de Luis están en 'movimientos_luis.xlsx'.
+El archivo 'credenciales_empresas.zip' contiene todos los accesos.
+La clave de acceso a la red corporativa es 'CorpNet#2025'.
+Los registros de pagos pendientes de Maria están en 'pagos_maria.xlsx'.
+La contraseña del servidor de desarrollo es 'DevServer2025!'.
+Los datos de clientes VIP están en 'clientes_vip.xlsx'.
+El backup de cuentas corporativas está en 'backup_corp.zip'.
+La clave de la tarjeta de crédito de Juan es 'Tarjeta123!'.
+Los movimientos recientes están en 'movimientos_recientes.xlsx'.
+El archivo 'datos_sensibles.zip' contiene información financiera.
+La contraseña del administrador de la red es 'AdminRed#2025'.
+Los registros de transferencias internas están en 'transferencias_internas.xlsx'.
+La clave de acceso a la banca corporativa de Sofia es 'SofiaAccess2025!'.
+Los movimientos de cuentas bloqueadas están en 'movimientos_bloqueadas.xlsx'.
+El archivo 'backup_tarjetas.zip' contiene PIN y números.
+La contraseña de la cuenta principal es 'CuentaPrincipal#2025'.
+Los datos de pagos de clientes están en 'pagos_clientes.xlsx'.
+El backup de información de clientes está en 'backup_info_clientes.zip'.
+La clave de acceso a la base de datos de empleados es 'DBAccess2025!'.
+Los movimientos financieros de Maria están en 'movimientos_maria.xlsx'.
+El archivo 'credenciales_seguras.zip' contiene todas las claves.
+La contraseña del sistema bancario es 'Banco#2025'.
+Los datos de cuentas VIP están en 'cuentas_vip.xlsx'.
+El backup de la banca online está en 'backup_online.zip'.
+La clave de acceso a la red interna de Juan es 'RedJuan2025!'.
+Los movimientos de tarjetas de crédito están en 'movimientos_tarjetas.xlsx'.
+El archivo 'backup_finanzas.zip' contiene transacciones.
+La contraseña de la cuenta VIP de Ana es 'VipAna2025!'.
+Los registros de transferencias están en 'transferencias.xlsx'.
+Los datos de la nómina de empleados están en 'nomina_empleados.xlsx'.
+La clave de acceso a la base de datos corporativa es 'CorpDB2025!'.
+Envio documentos confidenciales, realiza el pago antes de la fecha.
+Adjunto datos de clientes, completa la transferencia.
+Envio reporte bancario, confirma la transacción.
+Aquí tienes la información de las cuentas VIP.
+Por favor, procesa la transferencia de Ana a Juan.
+Te envío el backup con los datos financieros.
+Confirma recepción de los archivos de pagos.
+Envio contratos firmados, verifica las cuentas.
+Adjunto lista de clientes con saldos altos.
+Realiza el pago una vez revises los documentos.
+Envio datos de tarjeta, completa la operación.
+Aquí están los movimientos bancarios de la semana.
+Confirma la transferencia de la nómina.
+Adjunto archivos con información confidencial.
+Envio reporte de pagos pendientes.
+Por favor, revisa los datos de la cuenta principal.
+Envio resumen de transferencias de Carlos.
+Adjunto historial financiero de Maria.
+Realiza el pago antes del cierre del día.
+Envio backup de clientes VIP.
+Confirma recepción del archivo con claves.
+Envio información de cuentas bloqueadas.
+Adjunto movimientos de tarjetas de crédito.
+Por favor, procesa el pago de Juan.
+Envio archivo con datos de nómina.
+Realiza transferencia a la cuenta indicada.
+Envio documento con saldos actualizados.
+Adjunto reporte de transferencias internas.
+Confirma recepción del backup financiero.
+Envio datos de la cuenta de Sofia.
+Realiza pago pendiente con los archivos adjuntos.
+Adjunto información de clientes corporativos.
+Envio reporte de operaciones recientes.
+Por favor, confirma recepción de los datos.
+Envio resumen de cuentas VIP.
+Adjunto archivo con información de tarjetas.
+Realiza la transferencia según el documento enviado.
+Envio backup de movimientos bancarios.
+Confirma recepción de archivos de pagos.
+Adjunto información de nómina y salarios.
+Envio reporte de transacciones importantes.
+Realiza el pago tras revisar los documentos.
+Envio archivo con cuentas de clientes.
+Adjunto resumen de transferencias pendientes.
+Confirma que recibiste los datos sensibles.
+Envio información financiera de Juan.
+Realiza transferencia a la cuenta corporativa.
+Adjunto backup con información confidencial.
+Envio movimientos de tarjetas de Maria.
+Confirma recepción de reporte bancario.
+Envio documentos de pagos pendientes.
+Adjunto historial de transferencias de clientes.
+Realiza pago después de revisar los archivos.
+Envio backup con cuentas y movimientos.
+Adjunto información de nómina de empleados.
+Confirma recepción del archivo con datos bancarios.
+Envio reporte de operaciones recientes.
+Realiza la transferencia según las instrucciones.
+Adjunto archivo con información de clientes VIP.
+Envio datos financieros de la semana.
+Confirma recepción de backup de pagos.
+Envio documento con saldos de cuentas.
+Adjunto información de tarjetas bloqueadas.
+Realiza transferencia tras revisar los datos enviados.
+Envio backup con movimientos de cuentas.
+Confirma recepción de reportes de transacciones.
+Envio archivo con información de clientes corporativos.
+Adjunto resumen de pagos pendientes.
+Realiza el pago según el documento adjunto.
+Envio información de nómina de Maria.
+Confirma recepción de archivo financiero.
+Envio reporte de transferencias internas.
+Adjunto backup con datos de cuentas VIP.
+Realiza transferencia tras revisar la información enviada.
+Envio documento con movimientos de Juan.
+Confirma que recibiste los archivos sensibles.
+Envio backup de información financiera.
+Adjunto reporte de operaciones importantes.
+Realiza pago según los datos enviados.
+Envio resumen de cuentas bloqueadas.
+Confirma recepción de backup con información de clientes.
+Envio archivo de movimientos bancarios.
+Adjunto información de pagos pendientes.
+Realiza transferencia según los archivos recibidos.
+Envio documento con datos de clientes.
+Confirma recepción del reporte de transacciones.
+Envio backup de nómina y salarios.
+Adjunto resumen de transferencias recientes.
+Realiza el pago tras revisar los archivos adjuntos.
+Envio información de cuentas corporativas.
+Confirma recepción de backup financiero.
+Envio reporte de operaciones de la semana.
+Adjunto archivo con datos sensibles.
+Realiza la transferencia según la información enviada.
+Envio documento con movimientos de tarjetas.
+Confirma recepción de información bancaria.
+Envio backup de clientes VIP.
+Adjunto reporte de pagos pendientes.
+Realiza pago según el backup recibido.
+Envio resumen de transacciones internas.
+Confirma que recibiste los documentos sensibles.
+Envio archivo con información de cuentas VIP.
+Adjunto backup de movimientos financieros.
+Realiza la transferencia tras revisar los datos enviados.
