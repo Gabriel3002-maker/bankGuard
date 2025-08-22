@@ -1,236 +1,168 @@
-// =======================
-// 🔹 Función: obtener remitente
-// =======================
-function obtenerRemitente() {
+const revisados = new Map()
+let debounceTimeout = null
+const tiempoExpiracion = 3 * 60 * 1000
+
+function obtenerEmails() {
     try {
-        // 1️⃣ Campo "De" en COMPOSE (cuando escribes un correo)
+        const emails = new Set()
         const fromDropdown = document.querySelector('div[aria-label="De"]')
         if (fromDropdown) {
             const emailSpan = fromDropdown.querySelector("span[email]")
-            if (emailSpan) {
-                const email = emailSpan.getAttribute("email")
-                if (email) {
-                    console.log("✅ Remitente (compose):", email)
-                    return email.toLowerCase()
-                }
-            }
-            const visibleText = fromDropdown.innerText.trim()
-            const match = visibleText.match(
-                /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,}/
+            if (emailSpan)
+                emails.add(emailSpan.getAttribute("email").toLowerCase())
+            const match = fromDropdown.innerText
+                .trim()
+                .match(/[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,}/)
+            if (match) emails.add(match[0].toLowerCase())
+        }
+        document
+            .querySelectorAll(
+                "span[email][name], div[role='listitem'] span[email]"
             )
-            if (match) {
-                console.log("✅ Remitente (compose texto):", match[0])
-                return match[0].toLowerCase()
-            }
-        }
-
-        // 2️⃣ Header del correo en LECTURA
-        const headerFrom = document.querySelector("span[email][name]")
-        if (headerFrom) {
-            const email = headerFrom.getAttribute("email")
-            if (email) {
-                console.log("✅ Remitente (lectura):", email)
-                return email.toLowerCase()
-            }
-        }
-
-        const headerBlock = document.querySelector(
-            'div[role="listitem"] span[email]'
-        )
-        if (headerBlock) {
-            const email = headerBlock.getAttribute("email")
-            if (email) {
-                console.log("✅ Remitente (lectura bloque):", email)
-                return email.toLowerCase()
-            }
-        }
-
-        // 3️⃣ Correo del usuario logueado
+            .forEach(el => emails.add(el.getAttribute("email").toLowerCase()))
+        document
+            .querySelectorAll(
+                'textarea[name="to"], textarea[name="cc"], textarea[name="bcc"]'
+            )
+            .forEach(el =>
+                el.value
+                    .match(/[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,}/g)
+                    ?.forEach(email => emails.add(email.toLowerCase()))
+            )
+        document
+            .querySelectorAll("span[email]")
+            .forEach(el => emails.add(el.getAttribute("email").toLowerCase()))
         const userEmailElem = document.querySelector(
             'a[href^="https://accounts.google.com/SignOutOptions"]'
         )
         if (userEmailElem) {
-            const ariaLabel = userEmailElem.getAttribute("aria-label") || ""
-            const match = ariaLabel.match(
-                /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,}/
-            )
-            if (match) {
-                console.log("✅ Remitente (sesión):", match[0])
-                return match[0].toLowerCase()
-            }
+            const match = (
+                userEmailElem.getAttribute("aria-label") || ""
+            ).match(/[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,}/)
+            if (match) emails.add(match[0].toLowerCase())
         }
-
-        // 4️⃣ Meta tag (fallback)
         const metaEmail = document.querySelector('meta[itemprop="email"]')
-        if (metaEmail) {
-            const email = metaEmail.getAttribute("content")
-            if (email) {
-                console.log("✅ Remitente (meta):", email)
-                return email.toLowerCase()
-            }
-        }
-
-        console.warn(
-            "⚠️ No se pudo obtener el remitente. Usando valor por defecto."
-        )
-        return "desconocido@segurobank.com"
-    } catch (e) {
-        console.error("❌ Error obteniendo remitente:", e)
-        return "desconocido@segurobank.com"
+        if (metaEmail)
+            emails.add(metaEmail.getAttribute("content").toLowerCase())
+        return Array.from(emails)
+    } catch (error) {
+        console.error("Error al obtener los correos:", error)
+        return ["desconocido@segurobank.com"]
     }
 }
 
-// =======================
-// 🔹 Función: revisar contenido
-// =======================
+function hashString(str) {
+    let hash = 0
+    for (let i = 0; i < str.length; i++) {
+        hash = (hash << 5) - hash + str.charCodeAt(i)
+        hash |= 0 // Convierte a 32 bits
+    }
+    return hash
+}
+
 async function checkEmailContent() {
     try {
         const emailBodyElem = document.querySelector(
             'div[aria-label="Cuerpo del mensaje"]'
-        ) // compose
-        const subjectInput = document.querySelector('input[name="subjectbox"]') // compose
-        const readingBodyElem = document.querySelector("div.a3s.aiL") // lectura
+        )
+        const subjectInput = document.querySelector('input[name="subjectbox"]')
+        const readingBodyElem = document.querySelector("div.a3s.aiL")
 
-        let emailBody = ""
-        let emailSubject = ""
-        let remitente = obtenerRemitente()
+        if (!emailBodyElem && !readingBodyElem) return true
 
-        if (emailBodyElem && subjectInput) {
-            // ✉️ Compose
-            emailBody = emailBodyElem.innerText || ""
-            emailSubject = subjectInput.value || ""
-            console.log("📨 Detectado modo COMPOSE. Remitente:", remitente)
-        } else if (readingBodyElem) {
-            // 📩 Lectura
-            emailBody = readingBodyElem.innerText || ""
-            const subjectElem = document.querySelector("h2.hP")
-            emailSubject = subjectElem
-                ? subjectElem.innerText.trim()
-                : "(sin asunto)"
-            console.log("📨 Detectado modo LECTURA. Remitente:", remitente)
-        } else {
-            console.warn("⚠️ No se encontró cuerpo/asunto.")
+        const emailBody = (emailBodyElem || readingBodyElem).innerText || ""
+        const subjectElem = subjectInput || document.querySelector("h2.hP")
+        const emailSubject = subjectElem
+            ? subjectElem.value || subjectElem.innerText.trim()
+            : "(sin asunto)"
+
+        const emailId = hashString(emailSubject + emailBody)
+
+        // Verificar si el email ya ha sido revisado
+        if (
+            revisados.has(emailId) &&
+            Date.now() - revisados.get(emailId) < tiempoExpiracion
+        ) {
+            console.log(`Email ya revisado: ${emailId}`)
             return true
         }
 
+        // Marcar email como revisado y establecer el tiempo de expiración
+        revisados.set(emailId, Date.now())
+        console.log(`Revisando nuevo email: ${emailId}`)
+
+        // Eliminar los emails revisados que han expirado
+        revisados.forEach((timestamp, key) => {
+            if (Date.now() - timestamp > tiempoExpiracion) {
+                revisados.delete(key)
+                console.log(`Email expirado eliminado: ${key}`)
+            }
+        })
+
         const payload = {
-            id: null,
+            id: emailId,
             asunto: emailSubject,
-            remitente: remitente,
+            remitente: obtenerEmails(),
             texto: `${emailSubject}\n${emailBody}`,
         }
 
-        console.log("📡 Enviando contenido a API:", payload)
+        const response = await fetch(
+            "https://model-detection.giize.com/analizar",
+            {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(payload),
+            }
+        )
 
-        const response = await fetch("http://localhost:5000/analizar", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(payload),
-        })
-
-        if (!response.ok) {
-            console.error("❌ Error API:", response.status)
-            return true
-        }
-
+        if (!response.ok) return true
         const data = await response.json()
-        console.log("✅ Respuesta API:", data)
+        console.log(`Resultado de la detección: ${data.etiqueta}`)
 
-        if (data.etiqueta === "filtracion" || data.etiqueta === "sospechoso") {
-            return false
-        }
-        return true
+        return !(
+            data.etiqueta === "filtracion" || data.etiqueta === "sospechoso"
+        )
     } catch (error) {
-        console.error("❌ Error llamando API:", error)
+        console.error("Error en la revisión del contenido del email:", error)
         return true
     }
 }
 
-// =======================
-// 🔹 Función: mostrar banner en correos recibidos
-// =======================
-function mostrarBanner(mensaje, tipo = "warning") {
-    // Eliminar banners previos
-    document.querySelectorAll(".custom-alert-banner").forEach(el => el.remove())
-
-    const banner = document.createElement("div")
-    banner.className = "custom-alert-banner"
-    banner.style.cssText = `
-        background: ${tipo === "danger" ? "#ffcccc" : "#fff3cd"};
-        color: ${tipo === "danger" ? "#900" : "#856404"};
-        border: 1px solid ${tipo === "danger" ? "#f5c2c7" : "#ffeeba"};
-        padding: 10px;
-        margin: 10px 0;
-        border-radius: 8px;
-        font-weight: bold;
-    `
-    banner.textContent = mensaje
-
-    const header = document.querySelector("h2.hP") // Asunto
-    if (header && header.parentElement) {
-        header.parentElement.prepend(banner)
-    }
-}
-
-// =======================
-// 🔹 Función: interceptar acciones
-// =======================
 function interceptSubmit() {
     const handleSubmit = async event => {
-        const permitido = await checkEmailContent()
-        if (!permitido) {
+        console.log("Intentando enviar...")
+        if (!(await checkEmailContent())) {
+            console.log("El contenido no es seguro, no se enviará.")
             event.preventDefault()
             event.stopPropagation()
-            console.log("❌ Envío bloqueado por contenido sensible.")
-            alert(
-                "🚨 Este correo contiene información sensible y fue bloqueado."
-            )
         }
     }
 
-    // 📤 Envío con Ctrl+Enter
     document.body.addEventListener(
         "keydown",
-        event => {
-            if ((event.ctrlKey || event.metaKey) && event.key === "Enter") {
-                handleSubmit(event)
-            }
+        e => {
+            if ((e.ctrlKey || e.metaKey) && e.key === "Enter") handleSubmit(e)
         },
         true
     )
 
-    // 📤 Envío con click en "Enviar"
     document.body.addEventListener(
         "click",
-        event => {
-            const target = event.target
-            if (target.closest('div[role="button"][data-tooltip^="Enviar"]')) {
-                handleSubmit(event)
-            }
+        e => {
+            if (e.target.closest('div[role="button"][data-tooltip^="Enviar"]'))
+                handleSubmit(e)
         },
         true
     )
 
-    // 📩 Auto-revisión de correos recibidos
     const observer = new MutationObserver(() => {
-        const readingBodyElem = document.querySelector("div.a3s.aiL")
-        if (readingBodyElem) {
-            checkEmailContent().then(permitido => {
-                if (!permitido) {
-                    console.warn("🚨 Correo recibido sospechoso/filtración.")
-                    mostrarBanner(
-                        "⚠️ Cuidado: Este correo contiene información sensible o sospechosa.",
-                        "danger"
-                    )
-                }
-            })
-        }
+        if (debounceTimeout) clearTimeout(debounceTimeout)
+        debounceTimeout = setTimeout(() => {
+            if (document.querySelector("div.a3s.aiL")) checkEmailContent()
+        }, 300)
     })
 
     observer.observe(document.body, { childList: true, subtree: true })
 }
 
-// =======================
-// 🚀 Iniciar
-// =======================
 interceptSubmit()
